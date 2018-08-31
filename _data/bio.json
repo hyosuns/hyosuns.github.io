@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96701",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -57,6 +57,14 @@
         "MacOS",
         "Git/GitHub"
       ]
+    },
+    {
+      "name": "Foreign Languages",
+      "level": "",
+      "keywords": [
+        "Korean",
+        "Japanese"
+      ]
     }
   ],
   "education": [
@@ -73,7 +81,7 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Leeward Community College",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
