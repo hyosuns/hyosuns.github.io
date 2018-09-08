@@ -23,3 +23,8 @@ The idea of project was from one of my group members. He has too many DVDs, Blu-
 
 
 In this project, I was in charge of database design, tables, and input forms. I spent most of my time to test the database as user mind and found errors and mistakes. At the end of presentation, I implemented our database and show how the DB worked. There was a general interest in our database, so we allowed to share the database to the whole class. 
+
+
+I gained experience with database design, SQL statements, reports
+
+collaborative learning experiences  develop communication and teamwork skills.
