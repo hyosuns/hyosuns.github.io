@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/memerygame_cover.jpg
+image: images/memorygame_cover.jpg
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
