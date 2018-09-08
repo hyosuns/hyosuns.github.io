@@ -7,8 +7,11 @@ permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
+  - MIT
+  - App Inventor 2
+  - AI2
+  - Android
+  
 summary: A text adventure game I developed for ICS 313.
 ---
 
