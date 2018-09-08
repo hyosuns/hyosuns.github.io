@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/memerygame.jpg
+image: images/memerygame_cover.jpg
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ labels:
 summary: A text adventure game I developed for ICS 313.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/memorygame_cover.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/memorygame.jpg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
