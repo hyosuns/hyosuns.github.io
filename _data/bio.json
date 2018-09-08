@@ -80,13 +80,13 @@
       "startDate": "2018-08-20",
       "endDate": "Present",
       "gpa": "",
-      "courses": ["ICS 111", "ICS 211", "ICS 212", "ICS 311", "ICS 314"
+      "courses": ["ICS 111", "ICS 141", "ICS 211", "ICS 241", "ICS 212"
       ]
     },
     {
       "institution": "Leeward Community College, Pearl City, HI",
-      "area": "Associate of Arts in Liberal Arts",
-      "studyType": "",
+      "area": "Liberal Arts",
+      "studyType": "Associate of Arts",
       "startDate": "2010-18",
       "endDate": "2012-12",
       "gpa": "3.59",
