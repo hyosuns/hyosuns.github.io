@@ -29,6 +29,11 @@
   },
   "interests": [
     {
+      "name": "Software Engineer",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Computational Linguistics",
       "keywords": [
       ]
@@ -77,73 +82,51 @@
       "gpa": "",
       "courses": [
       ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Associate of Arts in Liberal Arts",
+      "studyType": "",
+      "startDate": "2010-18",
+      "endDate": "2012-12",
+      "gpa": "3.59",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "Leeward Community College",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Learning Resource Center, Leeward Community College",
+      "position": "Tutor",
+      "website": "http://www.leeward.hawaii.edu/lrc",
+      "startDate": "2010-08",
+      "endDate": "2012-12",
+      "summary": "Korean and economics tutor",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "tutored three to five students a week in Korean and Economics",
+        "motivated tutees to improve their language skills in Korean"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Office of International programs, Leeward Community College",
+      "website": "http://www.leeward.hawaii.edu/ipo",
+      "position": "Student assistant",
+      "startDate": "2016-01",
+      "endDate": "2016-05",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "created fifty-page handbook for international students",
+        "updating the information of Office of International Program online"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Honors Program",
+      "date": "December 2012",
+      "awarder": "Leeward Community College",
+      "summary": "Associate of Arts in Liberal Arts with Honors for student who is accepted into the Honors Program and has a 3.5 cumulative GPA at the time of graduation."
     }
   ],
   "references": [
