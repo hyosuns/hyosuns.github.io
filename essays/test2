@@ -1,0 +1,19 @@
+---
+layout: essay
+type: essay
+title: Dumb and Dumber
+# All dates must be YYYY-MM-DD format!
+date: 2018-09-06
+labels:
+  - The art of asking questions
+---
+We've all been there: the procrastination has finally lead to a surge of anxiety before a large assignment is due, and you simply can't figure out a certain error in your code.  But you're not worried! You know that a simply copy paste google search will solve nearly all your problems, as everything has been done before.  Yet, maybe you're question hasn't been answered so you must create your own.  This is the staple example of a stupid question.
+
+## Stupid Questions 
+These are the questions where the asker is looking to get and not give.  He is trying to solve some problem as fast as possible while doing the least amount of work, which is a recipe for disaster.  Consider SparkNotes.  Everyone knows that if you haven't read the assigned chapters of a book due tomorrow that the most surefire way to get a brief understanding is to read the SparkNotes(or CliffNotes).  While this will give you a summary of what happened, you won't grow any closer to the characters within the novel, you won't develope your own thoughts on the plot, essentially all you gain is useless knowledge that will help you only in the short term.  That is the essence of a stupid question.  An example of a stupid question is here: https://stackoverflow.com/questions/52210957/getting-words-in-a-line-in-c.  The user doesn't explain what he has done to try and solve the problem, uses inconcise wording and grammar, and is generally only looking for the answer, not knowledge that he can apply in the future to similar problems.  The lack of responses reflect this, along with the multiple downvotes on the question itself.
+
+## Smart Questions
+Questions that are outlined with concise statements regarding steps attempted to solve, using proper language and syntax, illustrating that the user has tried on his own multiple different ways of attacking the problem before posting his answer.  An example of this is here: https://stackoverflow.com/questions/52146115/what-is-the-purpose-of-a-unary-before-a-call-to-stdnumeric-limitsunsigned  As one can see, he shows that has tested multiple variations of his problem and isn't asking for answer, he is seeking an explanation.  This will allow him to learn from the responses, instead of just plugging in code for an assignment and moving on.  
+
+## Insights
+Smart questions will always lead to knowledge gained, experience for the future, and insight into how a question should be asked when another problem arises down the line.  All of these are refuted with the use of stupid questions.  Not only does one make a fool out of himself, but he also loses an important learning opportunity.  Smart questions will always recieve an equally smart, and helpful response. 
