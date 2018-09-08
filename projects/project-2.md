@@ -13,7 +13,7 @@ labels:
   
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui image" src="{{ site.baseurl }}/images/db_diagram.jpg">
 
 Home movies database was my final team project for ICS 113; Database Fundamentals. My three group members and I created a movies database using Microsoft Access for families to manage movie collections at home. It was three-week project, and we built a database and gave an end of project presentation to report our works in class.
 The idea of project was from one of my group members. He has too many DVDs, Blu-rays, and movie collection shelves in different places at his home. So, we decided to develop a database to organize movie collections and created seven tables, data fields, data input forms, relationships, primary and foreign keys. The databases we created contained information related movie, actors, casts like the popular online database, IMDb, but also contained information for user convenience. For example, location table represented where the searching movie collection is located. 
