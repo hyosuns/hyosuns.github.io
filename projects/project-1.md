@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/minigolf.jpg
+image: images/minigolf_cover.jpg
 title: Mini Golf
 permalink: 
 # All dates must be YYYY-MM-DD format!
