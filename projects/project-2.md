@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/db_cover.jpg
 title: Home Movies Database
-permalink: 
+
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-02
 labels:
@@ -22,9 +22,4 @@ The idea of project was from one of my group members. He has too many DVDs, Blu-
 <img class="ui image" src="{{ site.baseurl }}/images/db_diagram.jpg">
 
 
-In this project, I was in charge of database design, tables, and input forms. I spent most of my time to test the database as user mind and found errors and mistakes. At the end of presentation, I implemented our database and show how the DB worked. There was a general interest in our database, so we allowed to share the database to the whole class. 
-
-
-I gained experience with database design, SQL statements, reports
-
-collaborative learning experiences  develop communication and teamwork skills.
+I was in charge of database design, tables, input forms and spent most of my time to test our database as an user to find errors and mistakes my group made. In this project, I had a chance to apply my learning of entire ICS 113 and experienced in collaborative work with my group members. while we helped each others and made decisions together, also developed communication skills and had responsibilities as one team. After presentation, there was general interest in our database, so my group shared the database to the whole class. 
