@@ -1,25 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/db_cover.jpg
+title: Home Movies Database
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-05-02
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Database
+  - Microsoft
+  - Access
+  
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Home movies database was my final team project for ICS 113; Database Fundamentals. My three group members and I created a movies database using Microsoft Access for families to manage movie collections at home. It was three-week project, and we built a database and gave an end of project presentation to report our works in class.
+The idea of project was from one of my group members. He has too many DVDs, Blu-rays, and movie collection shelves in different places at his home. So, we decided to develop a database to organize movie collections and created seven tables, data fields, data input forms, relationships, primary and foreign keys. The databases we created contained information related movie, actors, casts like the popular online database, IMDb, but also contained information for user convenience. For example, location table represented where the searching movie collection is located. 
+<image>
+In this project, I was in charge of database design, tables, and input forms. I spent most of my time to test the database as user mind and found errors and mistakes. At the end of presentation, I implemented our database and show how the DB worked. There was a general interest in our database, so we allowed to share the database to the whole class. 
