@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hangul.png
+image: images/hangeul.jpg
 title: Korean Tutor
 permalink: 
 # All dates must be YYYY-MM-DD format!
