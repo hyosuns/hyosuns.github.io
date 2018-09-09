@@ -1,40 +1,26 @@
 ---
 layout: project
 type: project
-image: images/minigolf_cover.jpg
-title: Mini Golf App
+image: images/hangeul.png
+title: Korean Tutor
 permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2016-10-10
+date: 2012-12-7
 labels:
-  - MIT
-  - App Inventor 2
-  - AI2
-  - Android
+  - tutor
+  - Korean
+  - English
   
-summary: Mini golf app is a simple Android game that was developed by MIT App Inventor 2.
+summary: I worked as Korean tutor at Learning Resource Center at Leeward Community College.
 ---
 
 
-Mini golf is a simple game app that I created using MIT App Inventor 2 through the ICS 110M, Introduction to programming. This golf game consists of three holes, and each hole contains one obstacle. The ball speed goes down when it hits an obstacle or bounces on edges. Each stroke that user flings the white ball toward the hole is counted to calculate the score. When the ball goes into (black) hole, a hole is over and indicates the final score.
+I worked as Korean tutor at Learning Resource Center at Leeward Community College. I met the student who needed help with Korean classes and offered them help as they needed. Mostly, I explained the basic rules of grammar, spelling, and writing tip in Korean. and Korean cultures to help understanding language Korean better and use naturally. Also student came to my conversation group, met other students who was studying Korean, learned real stuff not in the book, and practice speaking in Korean. I guided the students to develop their language and learning skills. 
 
 
-<img class="ui medium left floated rounded image" src="../images/minigolf.jpg"> 
+English is my secondary language, so I understand how painful leaning foreign language is. I thought I could help students to understand another language because I had been there. On the first day of tutoring, my tutee and I was checking her homework together. I could tell what was correct or incorrect, but I could not tell why they were wrong. I realized I needed to study even though I am native Korean speaker. I pretended I was native English speaker and tried to analyze Korean. Unexpectedly, I ended up to understand deeply why Korean is the way it is. As I understood more my mother tongue, it was easier to answer why and my English skill also improved. I received the biggest gift in my life.
 
 
-As a newbie who was never took any programing class before, there was a challenging part; how to control the movement of the white ball. The first movement is the ball has own speed and direction while moving in real life. I used Flung event that gave the ball speed when user flings the ball on the screen. The second movement is the the rolling ball will slow down and stop sometime. I used clock component to control the ball if its speed is faster than zero, then reducing the speed. I used to CollidedWith event to implement the third movement that the ball will bounce and slow down when it hits obstacle or wall. 
-
-This project was my first programing project ever; ICS 110M was my first programing class. I did not have programing knowledge and experience at the time, but programing was really fun. It was first step that I could create something physically from my abstract idea using App Inventor. I was surprised that so many people already made apps using this simple program. After I completed this project, I wanted to learn more and be software developer, and chose my major as Computer Science. 
-
-
-
-
-
-
-
-
-
-
-
+Through tutoring experience, I developed my communication skills in English and Korean while meeting student one to one and leading conversation group one to many.  I got feedback from tutee, and that helped to improve customer service and time management. 
 
 
