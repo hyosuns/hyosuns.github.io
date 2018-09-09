@@ -5,7 +5,7 @@ image: images/memorygame_cover.jpg
 title: Memory Game App
 
 # All dates must be YYYY-MM-DD format!
-date: 2017-12-05
+date: 2016-12-05
 labels:
   - Database
   - Microsoft
