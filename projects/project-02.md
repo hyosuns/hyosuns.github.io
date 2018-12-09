@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/minigolf_cover.jpg
+image: images/golf.jpg
 title: Mini Golf App
 permalink: 
 # All dates must be YYYY-MM-DD format!
