@@ -37,7 +37,7 @@ For example, the dropdowns of event, building, location, category in the input f
 
 I did not have experience with back end so that it was challenge to understand and use them into my code. Especially, submit data is the important interface that connects between user and database. So, I had to study how whole system (front and back ends) is working.     
 
-Also, I realized how difficult to work as a team. It is not because we used to work as individual. The size of the program is much bigger than previous class assignment we used to have, and I felt pressure of the duty and responsibilities as a team member. However, we struggled together, push and pull each other, we learned a lot in short time. It was great experience working as a team.   
+Also, I realized how difficult to work as a team. It is not because we used to work as individual. The size of the program is much bigger than previous class assignment we used to have, and I felt pressure of the duty and responsibilities as a team member. However, we struggled together, pushed and pulled each other, we learned a lot in short time. It was great experience working as a team.   
 
 
 # Details
