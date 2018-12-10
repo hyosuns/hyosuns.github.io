@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/GatherLogo.jpg
+image: images/GatherLogo.png
 title: Gather
 
 # All dates must be YYYY-MM-DD format!
