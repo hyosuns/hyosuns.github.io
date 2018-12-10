@@ -42,8 +42,8 @@ Also, I realized how difficult to work as a team. It is not because we used to w
 
 # Details
 Gather 
-* app: (http://gather.meteorapp.com/#/)
-* github: (https://github.com/HACC2018/The-Johnson-Family)
-* video: (https://youtu.be/XZxnj_RrCKs)
+* app: <a href="http://gather.meteorapp.com/#/" />
+* github: <a href="https://github.com/HACC2018/The-Johnson-Family" />
+* video: <a href="https://youtu.be/XZxnj_RrCKs" />
 
 
