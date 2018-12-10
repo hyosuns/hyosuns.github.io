@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/film.jpg
+image: images/homedb.jpg
 title: Home Movies Database
 
 # All dates must be YYYY-MM-DD format!
