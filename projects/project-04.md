@@ -29,7 +29,7 @@ The Smart bin helps to get the weight, volume, and count of waste with little ef
 
 Unfortunately, we did not get a prize, but our team kept working on the project to improve our app Gather.
 
-# My Contributions and thoughts
+# My Contributions and Thoughts
 As a front end team member, my most contribution to this project was the submit data part that included input and display forms. I used JavaScript and React to develop my parts. The form was very simple at the beginning, but it became dynamic inform as the app improved by backend team.   
 <img class="ui image" src="{{ site.baseurl }}/images/gather_inputform.png">
 
